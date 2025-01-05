@@ -4,6 +4,7 @@
 typedef struct BST_Tree tree;
 struct BST_Tree {
     int data;
+    tree *parent;
     tree *left;
     tree *right;
 };

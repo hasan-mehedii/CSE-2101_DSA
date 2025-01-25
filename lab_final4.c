@@ -1,4 +1,5 @@
 //22
+//22
 #include <stdio.h>
 
 void genLists(int n, int curr[], int index) {
